@@ -1,11 +1,13 @@
+import java.util.Scanner;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UriJudgePack;
 
-import java.util.Scanner;
+
+
 
 /**
  *
@@ -31,5 +33,6 @@ public class URI1071 {
         }
         
         System.out.println(soma);
+        entrada.close();
     }
 }

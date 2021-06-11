@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UriJudgePack;
+
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -25,5 +25,6 @@ public class URI1073 {
                 System.out.println(i + "^2 = " + format.format(Math.pow(i, 2)));
             }
         }
+        entrada.close();
     }
 }

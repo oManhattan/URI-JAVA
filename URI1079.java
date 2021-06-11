@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UriJudgePack;
+
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -29,6 +29,7 @@ public class URI1079 {
             double media = (N1*0.2) + (N2*0.3) + (N3*0.5);
             
             System.out.println(format.format(media));
+            entrada.close();
         }
     }
 }

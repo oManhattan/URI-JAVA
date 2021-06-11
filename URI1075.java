@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UriJudgePack;
+
 
 import java.util.Scanner;
 
@@ -23,5 +23,6 @@ public class URI1075 {
                 System.out.println(x);
             }
         }
+        entrada.close();
     }
 }
