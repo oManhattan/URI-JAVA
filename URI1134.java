@@ -18,6 +18,7 @@ public class URI1134 {
                     break;
                 case 3:
                     diesel++;
+                    break;
                 case 4:
                     condicao = false;
                     break;
